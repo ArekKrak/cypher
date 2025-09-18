@@ -39,7 +39,7 @@ Write a Python program that:
 
 ```
 cypher/
-├── cypher.py # Main program logic
+├── cypher-python.py # Main program logic
 └── README.md # Project documentation
 ```
 
