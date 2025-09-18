@@ -39,8 +39,8 @@ Write a Python program that:
 
 ```
 cypher/
-├── cypher-python.py # Main program logic
-└── README.md # Project documentation
+├── cypher-python.py    # Main program logic
+└── README.md           # Project documentation
 ```
 
 ---
