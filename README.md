@@ -1,6 +1,6 @@
 # 🔐 Cypher
 
-![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&style=flat)
+![Python](https://img.shields.io/badge/Python-Language-white?logo=python&logoColor=blue&style=flat)
 ![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white&style=flat)](https://github.com/ArekKrak/cypher)
 
