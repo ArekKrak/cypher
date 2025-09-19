@@ -70,23 +70,7 @@ python3 cypher-python.py
 ---
 ## Example Output
 
-```
-______________________________________________________________________
-
-                            CONTACT FORM
-
-Subject:     Hello World
-[Encrypted]  Wtaad Ldgqi
-
-Your message:     Meet at 10:30 by the park.
-[Encrypted]       Btt i i 10:30 qn iwt epaq.
-
-Your e-mail address:     alice@example.com
-[Encrypted]              paltr@mpeljbt.rdB
-
-Thanks for submitting our [safe!] form. We'll get back to you shortly.
-______________________________________________________________________
-```
+![Demo animation](cypher.gif)
 
 ---
 ## Key Concepts Demonstrated
